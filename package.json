@@ -1,8 +1,8 @@
 {
-  "name": "serverless-stack-output",
-  "description": "Serverless plugin to process AWS CloudFormation Stack Output",
+  "name": "serverless-stack-output-v2",
+  "description": "A fork of a Serverless plugin to process AWS CloudFormation Stack Output (originally made by Sebastian Müller <mail@sbstjn.com>)",
   "license": "MIT",
-  "author": "Sebastian Müller <mail@sbstjn.com>",
+  "author": "Mohammad Osama <mohammad.o.ayoub95@gmail.com>",
   "main": "dist",
   "scripts": {
     "clean": "rimraf dist",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbstjn/serverless-stack-output.git"
+    "url": "git+https://github.com/maramizo/serverless-stack-output.git"
   },
   "bugs": {
-    "url": "https://github.com/sbstjn/serverless-stack-output/issues"
+    "url": "https://github.com/maramizo/serverless-stack-output/issues"
   },
-  "homepage": "https://github.com/sbstjn/serverless-stack-output#readme",
+  "homepage": "https://github.com/maramizo/serverless-stack-output#readme",
   "keywords": [
     "serverless",
     "plugin",
